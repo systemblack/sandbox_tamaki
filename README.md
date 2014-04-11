@@ -1,6 +1,6 @@
 sandbox_tamaki
 ==============
 
-This is a sandbox repository.
+This is a sandbox main repository.
 
 Here is an additonal line.
